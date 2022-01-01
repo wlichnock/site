@@ -16,3 +16,7 @@ h2 {
 	line-height: 2;
 	letter-spacing: 1px;
 }
+img {
+	max-width: 25%;
+	height: auto;
+}
