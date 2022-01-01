@@ -1,0 +1,18 @@
+html {
+	font-family: "Space Grotesk", sans-serif;
+	font-size: 10px;
+	padding: 0em 4em 2em 4em;
+}
+h1 {
+	font-size: 60px;
+}
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+h2 {
+	font-size: 24px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
